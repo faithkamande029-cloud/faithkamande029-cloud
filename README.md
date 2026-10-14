@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-<!--
-**faithkamande029-cloud/faithkamande029-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p data-importer="text" align="left">My name is Faith and I'm a Frontend Developer, from Nairobi Kenya</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<p data-importer="text" align="left">✨ I am an aspiring frontend developer who started coding in February 2026. I enjoy building visual, user-focused applications <br>📚 I'm exploring how design and development come together and currently learning Figma <br>🎯 Goals: Is to become a UI/UX engineer that can build what I design <br>🎲 Fun fact: I am visual artist and take creative photography and create concept art.</p>
+
+###
+
+<h2 data-importer="text" align="left">I code with</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+</div>
+
+###
