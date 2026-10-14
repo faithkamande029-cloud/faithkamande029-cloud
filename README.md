@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ I am an aspiring frontend developer who started coding in February 2026. I enjoy building visual, user-focused applications <br>📚 I'm exploring how design and development come together and currently learning Figma <br>🎯 Goals: Is to become a UI/UX engineer that can build what I design <br>🎲 Fun fact: I am visual artist and take creative photography and create concept art.</p>
+<p data-importer="text" align="left">✨ I am an aspiring frontend developer who started coding in February 2026. I enjoy building visual, user-focused applications <br>📚 I'm exploring how design and development come together and currently learning Figma <br>🎯 Goals: Is to become a UI/UX engineer that can build what I design <br>🎲 Fun fact: I am visual artist; I take creative photography and create concept art.</p>
 
 ###
 
