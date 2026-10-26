@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Faith and a Frontend Developer, from Nairobi Kenya</p>
+<p data-importer="text" align="left">My name is Faith Kamande a Frontend Developer, from Nairobi Kenya</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ I am an aspiring frontend developer who started coding in February 2026. I enjoy building visual, user-focused applications <br>📚 I'm exploring how design and development come together and currently learning Figma <br>🎯 Goals: Is to become a UI/UX engineer that can build what I design <br>🎲 Fun fact: I am visual artist; I take creative photography and create concept art.</p>
+<p data-importer="text" align="left">✨ I am a frontend developer who started coding in February 2026. I am well versed in full-stack development but enjoy building visual, user-focused applications <br>📚 I'm exploring how design and development come together and currently learning Figma <br>🎯 Goals: Is to become a UI/UX engineer that can build what I design <br>🎲 Fun fact: I am visual artist; I take creative photography and create concept art.</p>
 
 ###
 
@@ -18,12 +18,16 @@
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+<div data-importer="techs" align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
