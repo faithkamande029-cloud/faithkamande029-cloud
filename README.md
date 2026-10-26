@@ -11,7 +11,7 @@
 ###
 
 <p data-importer="text" align="left">
-  ✨ I am a frontend developer who started coding in February 2026 and completed a full-stack software engineering programme at Moringa School. I enjoy building visual, user-focused applications. 
+  ✨ I am a frontend developer who started coding in February 2026 and completed a full-stack software engineering programme at Moringa School. I'm comfortable across the stack, but what I enjoy most is building visual, user-focused applications. 
   <br>
   📚 I'm exploring how design and development come together and currently learning Figma <br>
   🎯 My Goals: Is to become a UI/UX engineer that can build what she designs. <br>
