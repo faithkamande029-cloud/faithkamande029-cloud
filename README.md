@@ -56,5 +56,6 @@
 📧 faithkamande029@gmail.com
 
 ![Open Orders and Follow-up Tracker](dashboard.png)
+[View the dashboard as a PDF](dashboard.pdf)
 
 ###
