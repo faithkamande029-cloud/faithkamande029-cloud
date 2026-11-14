@@ -15,7 +15,7 @@
   <br>
   📚 I'm exploring how design and development come together and currently learning Figma <br>
   🎯 My Goals: Is to become a UI/UX engineer that can build what she designs. <br>
-  🎲 Fun fact: I am visual artist. I do creative photography and create concept art.
+  🎲 Fun fact: I am visual artist. I do creative photography and visual artist.
 </p>
 
 ###
@@ -54,5 +54,7 @@
 <h2 align="left">Get in touch</h2>
 
 📧 faithkamande029@gmail.com
+
+![Open Orders and Follow-up Tracker](sample_dashboard.pdf)
 
 ###
